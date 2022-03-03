@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{673:function(n,t,e){"use strict";e.r(t);var l={},c=e(1),component=Object(c.a)(l,(function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("c-page",[n._v("\n    bank\n    "),e("div",{attrs:{slot:"column"},slot:"column"},[n._v("\n        11\n    ")])])}),[],!1,null,null,null);t.default=component.exports}}]);
